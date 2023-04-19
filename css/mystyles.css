@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("https://img.freepik.com/premium-vector/abstract-background-with-modern-style-hexagon-pattern_7505-1736.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+    color: darkcyan; /*font color*/
+}
+.pizza{
+    text-align: center;
+}
+.footer{
+    position: fixed;
+    background-color: rgb(235, 217, 217);
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: block;
+    text-align: center;
+}
